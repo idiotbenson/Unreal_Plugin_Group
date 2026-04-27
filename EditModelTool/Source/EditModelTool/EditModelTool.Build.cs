@@ -24,7 +24,8 @@ public class EditModelTool : ModuleRules
                 "LevelEditor",
                 "ToolMenus",
                 "EditorSubsystem",
-                "EditorFramework"
+                "EditorFramework",
+                "DatasmithContent"
             });
     }
 }
